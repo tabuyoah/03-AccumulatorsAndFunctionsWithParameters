@@ -52,7 +52,7 @@ Authors: David Mutchler, Vibha Alangar, Matt Boutell, Dave Fisher, Mark Hays,
 #                radius size, color of fill, thickness of line
 #
 #     f. What does a RoseWindow RENDER method do?
-#            Allows you to draw everything 
+#            Allows you to draw everything
 #
 #     g. When is a RoseWindow close_on_mouse_click method call
 #        necessary?  Why?
